@@ -1,0 +1,32 @@
+body{
+    margin-left: 20px;
+    background-color: rgb(119, 116, 116);
+}
+.add-chat{
+    font-size: 50px; 
+    border-radius: 50%; 
+    height: 70px; 
+    width: 70px; 
+    margin-left: 100px; 
+    border: 2px solid green; 
+    color: green;
+}
+h1{
+    font-size: 35px;
+    text-align: center;
+    width: 270px;
+}
+
+.chat{
+    background-color: rgb(209, 223, 241);
+    padding: 20px;
+    border-radius: 16px;
+    width: 300px;
+}
+
+.msg{
+    background-color: dodgerblue;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 16px;
+}
